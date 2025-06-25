@@ -20,12 +20,13 @@ HobbyHub is a local hobby group organizer platform where users can create, join,
 - ✅ **Create & Join Hobby Groups**  
   Users can start their own groups or join existing ones based on interests and seat availability.
 
-- ✅ **Dark/Light Theme + Animations**  
-  Supports theme toggle with smooth animations using **React Awesome Reveal** and **Lottie**.
+- ✅ **Dark/Light Theme + Animations**
+- Dark/Light mode work depend on your device system Dark whether Light.
+-  Supports theme toggle with smooth animations using **React Awesome Reveal** and **Lottie**.
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Built With 
 
 - **React.js**
 - **React Router DOM**
